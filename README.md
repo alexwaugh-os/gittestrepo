@@ -1,4 +1,4 @@
 # gittestrepo
 repo for training session
 
-**this is much better now**
+**this is much more even better now**
